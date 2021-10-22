@@ -1,0 +1,16 @@
+C:\Users\Rodrigo Ferreira\Desktop\Bootcamp's\C#\TransferenciasBancarias\bin\Debug\net5.0\TransferenciasBancarias.exe
+C:\Users\Rodrigo Ferreira\Desktop\Bootcamp's\C#\TransferenciasBancarias\bin\Debug\net5.0\TransferenciasBancarias.deps.json
+C:\Users\Rodrigo Ferreira\Desktop\Bootcamp's\C#\TransferenciasBancarias\bin\Debug\net5.0\TransferenciasBancarias.runtimeconfig.json
+C:\Users\Rodrigo Ferreira\Desktop\Bootcamp's\C#\TransferenciasBancarias\bin\Debug\net5.0\TransferenciasBancarias.runtimeconfig.dev.json
+C:\Users\Rodrigo Ferreira\Desktop\Bootcamp's\C#\TransferenciasBancarias\bin\Debug\net5.0\TransferenciasBancarias.dll
+C:\Users\Rodrigo Ferreira\Desktop\Bootcamp's\C#\TransferenciasBancarias\bin\Debug\net5.0\ref\TransferenciasBancarias.dll
+C:\Users\Rodrigo Ferreira\Desktop\Bootcamp's\C#\TransferenciasBancarias\bin\Debug\net5.0\TransferenciasBancarias.pdb
+C:\Users\Rodrigo Ferreira\Desktop\Bootcamp's\C#\TransferenciasBancarias\obj\Debug\net5.0\TransferenciasBancarias.csproj.AssemblyReference.cache
+C:\Users\Rodrigo Ferreira\Desktop\Bootcamp's\C#\TransferenciasBancarias\obj\Debug\net5.0\TransferenciasBancarias.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Rodrigo Ferreira\Desktop\Bootcamp's\C#\TransferenciasBancarias\obj\Debug\net5.0\TransferenciasBancarias.AssemblyInfoInputs.cache
+C:\Users\Rodrigo Ferreira\Desktop\Bootcamp's\C#\TransferenciasBancarias\obj\Debug\net5.0\TransferenciasBancarias.AssemblyInfo.cs
+C:\Users\Rodrigo Ferreira\Desktop\Bootcamp's\C#\TransferenciasBancarias\obj\Debug\net5.0\TransferenciasBancarias.csproj.CoreCompileInputs.cache
+C:\Users\Rodrigo Ferreira\Desktop\Bootcamp's\C#\TransferenciasBancarias\obj\Debug\net5.0\TransferenciasBancarias.dll
+C:\Users\Rodrigo Ferreira\Desktop\Bootcamp's\C#\TransferenciasBancarias\obj\Debug\net5.0\ref\TransferenciasBancarias.dll
+C:\Users\Rodrigo Ferreira\Desktop\Bootcamp's\C#\TransferenciasBancarias\obj\Debug\net5.0\TransferenciasBancarias.pdb
+C:\Users\Rodrigo Ferreira\Desktop\Bootcamp's\C#\TransferenciasBancarias\obj\Debug\net5.0\TransferenciasBancarias.genruntimeconfig.cache
